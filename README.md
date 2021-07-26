@@ -1,2 +1,2 @@
 # LandinPage-with-Bootstrap
-Landing pago elaborada únicamente con Bootstrap.
+Landing page elaborada únicamente con Bootstrap.
